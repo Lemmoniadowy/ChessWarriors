@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 4217112e193093c43853ea35b6cf8185
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pieceP1: {instanceID: 0}
+  - pieceP2: {instanceID: 0}
+  - grid: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - highlightMoveMaterial: {instanceID: 0}
+  - highlightEatMaterial: {instanceID: 0}
+  - highlightCheckMaterial: {instanceID: 0}
+  - winnerText: {instanceID: 0}
+  - blackScoreText: {instanceID: 0}
+  - whiteScoreText: {instanceID: 0}
+  - gamesPlayedText: {instanceID: 0}
+  - winnerCanvas: {instanceID: 0}
+  - continueButton: {instanceID: 0}
+  - winnerButton: {instanceID: 0}
+  - whiteTimerText: {instanceID: 0}
+  - blackTimerText: {instanceID: 0}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 6192986415256ca47a97a97507406f5e, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
